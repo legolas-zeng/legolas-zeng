@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 一个有头发的运维
+- 🌱 目前在学习云原生的周边生态
+- 🤔 Pythonista & Goland
+- 😄 vue,bootstrap 爱好者
+- ⚡ 放荡不羁
 <!--
 **legolas-zeng/legolas-zeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
